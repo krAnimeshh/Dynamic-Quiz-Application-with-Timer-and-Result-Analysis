@@ -1,0 +1,327 @@
+[
+  {
+    "id": 1,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "What is the chemical symbol for Water?",
+    "options": [
+      "H2O",
+      "O2",
+      "CO2",
+      "NaCl"
+    ],
+    "answer": "H2O"
+  },
+  {
+    "id": 2,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "Which planet is known as the Red Planet?",
+    "options": [
+      "Mars",
+      "Venus",
+      "Jupiter",
+      "Saturn"
+    ],
+    "answer": "Mars"
+  },
+  {
+    "id": 3,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What gas do plants absorb from the atmosphere for photosynthesis?",
+    "options": [
+      "Carbon Dioxide",
+      "Oxygen",
+      "Nitrogen",
+      "Hydrogen"
+    ],
+    "answer": "Carbon Dioxide"
+  },
+  {
+    "id": 4,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What is the powerhouse of the cell?",
+    "options": [
+      "Mitochondria",
+      "Nucleus",
+      "Ribosome",
+      "Endoplasmic Reticulum"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 5,
+    "category": "Tech",
+    "difficulty": "easy",
+    "question": "What does CPU stand for?",
+    "options": [
+      "Central Processing Unit",
+      "Central Process Unit",
+      "Computer Personal Unit",
+      "Central Processor Unit"
+    ],
+    "answer": "Central Processing Unit"
+  },
+  {
+    "id": 6,
+    "category": "Tech",
+    "difficulty": "medium",
+    "question": "Which language is primarily used for web styling?",
+    "options": [
+      "CSS",
+      "HTML",
+      "Python",
+      "Java"
+    ],
+    "answer": "CSS"
+  },
+  {
+    "id": 7,
+    "category": "Tech",
+    "difficulty": "hard",
+    "question": "What is the kernel of the Android operating system based on?",
+    "options": [
+      "Linux",
+      "Windows",
+      "Unix",
+      "Mac"
+    ],
+    "answer": "Linux"
+  },
+  {
+    "id": 8,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who was the first President of the United States?",
+    "options": [
+      "George Washington",
+      "Thomas Jefferson",
+      "Abraham Lincoln",
+      "John Adams"
+    ],
+    "answer": "George Washington"
+  },
+  {
+    "id": 9,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In which year did World War II end?",
+    "options": [
+      "1945",
+      "1939",
+      "1918",
+      "1955"
+    ],
+    "answer": "1945"
+  },
+  {
+    "id": 10,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Who was the first female Prime Minister of the UK?",
+    "options": [
+      "Margaret Thatcher",
+      "Theresa May",
+      "Queen Elizabeth II",
+      "Indira Gandhi"
+    ],
+    "answer": "Margaret Thatcher"
+  },
+  {
+    "id": 11,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "Which element has the atomic number 1?",
+    "options": [
+      "Hydrogen",
+      "Helium",
+      "Lithium",
+      "Carbon"
+    ],
+    "answer": "Hydrogen"
+  },
+  {
+    "id": 12,
+    "category": "Science",
+    "difficulty": "medium",
+    "question": "What is the hardest natural substance on Earth?",
+    "options": [
+      "Diamond",
+      "Gold",
+      "Iron",
+      "Quartz"
+    ],
+    "answer": "Diamond"
+  },
+  {
+    "id": 13,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "Which empire was ruled by Julius Caesar?",
+    "options": [
+      "Roman Empire",
+      "Greek Empire",
+      "Ottoman Empire",
+      "British Empire"
+    ],
+    "answer": "Roman Empire"
+  },
+  {
+    "id": 14,
+    "category": "History",
+    "difficulty": "medium",
+    "question": "In what year did the Titanic sink?",
+    "options": [
+      "1912",
+      "1905",
+      "1923",
+      "1898"
+    ],
+    "answer": "1912"
+  },
+  {
+    "id": 15,
+    "category": "Tech",
+    "difficulty": "medium",
+    "question": "What does HTTP stand for?",
+    "options": [
+      "HyperText Transfer Protocol",
+      "HyperText Transmission Protocol",
+      "HyperTech Transfer Protocol",
+      "HyperText Transfer Package"
+    ],
+    "answer": "HyperText Transfer Protocol"
+  },
+  {
+    "id": 16,
+    "category": "Tech",
+    "difficulty": "medium",
+    "question": "Which company developed the Java programming language?",
+    "options": [
+      "Sun Microsystems",
+      "Microsoft",
+      "Apple",
+      "Google"
+    ],
+    "answer": "Sun Microsystems"
+  },
+  {
+    "id": 17,
+    "category": "Science",
+    "difficulty": "easy",
+    "question": "How many planets are in our solar system?",
+    "options": [
+      "8",
+      "9",
+      "7",
+      "10"
+    ],
+    "answer": "8"
+  },
+  {
+    "id": 18,
+    "category": "History",
+    "difficulty": "easy",
+    "question": "Who discovered America?",
+    "options": [
+      "Christopher Columbus",
+      "Vasco da Gama",
+      "Marco Polo",
+      "James Cook"
+    ],
+    "answer": "Christopher Columbus"
+  },
+  {
+    "id": 19,
+    "category": "Tech",
+    "difficulty": "easy",
+    "question": "What is the main function of RAM?",
+    "options": [
+      "Temporary Storage",
+      "Permanent Storage",
+      "Processing",
+      "Cooling"
+    ],
+    "answer": "Temporary Storage"
+  },
+  {
+    "id": 20,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "What is the speed of light?",
+    "options": [
+      "299,792,458 m/s",
+      "300,000,000 m/s",
+      "150,000,000 m/s",
+      "1,080,000,000 km/h"
+    ],
+    "answer": "299,792,458 m/s"
+  },
+  {
+    "id": 21,
+    "category": "Science",
+    "difficulty": "hard",
+    "question": "Which particle has a negative charge?",
+    "options": [
+      "Electron",
+      "Proton",
+      "Neutron",
+      "Positron"
+    ],
+    "answer": "Electron"
+  },
+  {
+    "id": 22,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "Who was the second president of the USA?",
+    "options": [
+      "John Adams",
+      "Thomas Jefferson",
+      "James Madison",
+      "Alexander Hamilton"
+    ],
+    "answer": "John Adams"
+  },
+  {
+    "id": 23,
+    "category": "History",
+    "difficulty": "hard",
+    "question": "The Hundred Years' War was fought between which two countries?",
+    "options": [
+      "England and France",
+      "England and Spain",
+      "France and Germany",
+      "Spain and Portugal"
+    ],
+    "answer": "England and France"
+  },
+  {
+    "id": 24,
+    "category": "Tech",
+    "difficulty": "hard",
+    "question": "Which protocol is used for secure communication over a computer network?",
+    "options": [
+      "HTTPS",
+      "HTTP",
+      "FTP",
+      "SMTP"
+    ],
+    "answer": "HTTPS"
+  },
+  {
+    "id": 25,
+    "category": "Tech",
+    "difficulty": "hard",
+    "question": "What is the time complexity of binary search?",
+    "options": [
+      "O(log n)",
+      "O(n)",
+      "O(n^2)",
+      "O(1)"
+    ],
+    "answer": "O(log n)"
+  }
+]
